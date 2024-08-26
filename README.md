@@ -30,6 +30,11 @@ The game includes a suite of unit tests to ensure the correct functionality of t
 
 To run the tests, use the following command:
 
+```bash
+cd AstroPythonInvaders
+python3 Test_AstroPythonInvaders.py
+```
+
 ## Contributing
 
 Contributions are welcome. Please feel free to submit a pull request.
