@@ -17,7 +17,7 @@ To install the game, clone the repository and run the main Python script.
 ```bash
 git clone https://github.com/username/AstroPythonInvaders.git
 cd AstroPythonInvaders
-python main.py
+python3 AstroPythonInvaders.py
 ```
 
 ## Usage
@@ -29,10 +29,6 @@ The game is controlled using the arrow keys. The player can move left and right 
 The game includes a suite of unit tests to ensure the correct functionality of the game mechanics. These tests include collision detection, player and enemy movement, bullet firing, game over conditions, scoring system, and player speed.
 
 To run the tests, use the following command:
-
-```bash
-python -m unittest discover
-```
 
 ## Contributing
 
